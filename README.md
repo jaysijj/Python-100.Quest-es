@@ -1,4 +1,4 @@
-# Pyhton - mais de 100 questões do Curso em Vídeo de Pyhton :snake:
+# Python - mais de 100 questões do Curso em Vídeo de Python :snake:
 
 ## 2 - Respondendo ao usuário
 Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
