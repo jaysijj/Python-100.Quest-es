@@ -1,0 +1,5 @@
+n = float(input("Valor do produto: "))
+desconto = n - (n*0.05)
+aumento = n + (n*0.15)
+print('Valor do produto com desconto de 5%: R$ {:.2f}'.format(desconto))
+print('Valor do produto com 15% de aumento: R$ {:.2f}'.format(aumento))
