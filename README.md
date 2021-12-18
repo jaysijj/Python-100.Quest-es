@@ -39,3 +39,9 @@ Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com
 
 ## 13 - Reajuste salarial
 Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+## 14 - Conversor de Temperaturas
+Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+
+## 15 - Aluguel de carros
+Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
