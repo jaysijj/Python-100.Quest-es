@@ -45,3 +45,8 @@ Escreva um programa que converta uma temperatura digitando em graus Celsius e co
 
 ## 15 - Aluguel de carros
 Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
+
+## Quebrando um número
+Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+Ex: Digite um número: 6.127
+O número 6.127 tem a parte Inteira 6.
